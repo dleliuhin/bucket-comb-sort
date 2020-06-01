@@ -1,0 +1,5 @@
+#!/bin/bash
+rm -rf ../build-bucket-comb-sort*
+rm ..//home/dleliuhin/Desktop/bucket-comb-sort/src/CMakeLists.txt.tar.gz
+rm -rf build/*
+rm -rf livox_driver.pro.*
